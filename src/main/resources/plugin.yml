@@ -1,0 +1,14 @@
+main: com.gmail.markushygedombrowski.HLBandeKrig
+name: HLBandeKrig
+version: 1.0
+author: Markus Hyge Dombrowski
+depend: [HLUtils,HLWarp,HLKits]
+commands:
+  reloadbande:
+    description: Reloads the plugin
+    usage: /reloadbande
+    aliases: [reloadbande, rldbande]
+  startbandekrig:
+    description: Starts the BandeKrig
+    usage: /startbandekrig
+    aliases: [startbandekrig, sbk,restartbandekrig]
